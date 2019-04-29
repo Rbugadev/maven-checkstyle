@@ -16,8 +16,8 @@
 					<source>1.8</source>
 					<target>1.8</target>
 				</configuration>
-				<plugin-prefix>compile</plugin-prefix>
 			</plugin>
+			<plugin-prefix>compile</plugin-prefix>
 		</plugins>
 	</build>
 </project>
