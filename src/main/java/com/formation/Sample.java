@@ -1,7 +1,7 @@
 package com.formation;
 
 public class Sample {
-	public Boolean shouldBeWarning(){
+	public Boolean shouldBeWarning() {
 		return null;
 	}
 
