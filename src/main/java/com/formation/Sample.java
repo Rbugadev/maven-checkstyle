@@ -1,8 +1,8 @@
 package com.formation;
 
-public abstract class Sample {
+public class Sample {
 	
-	public Boolean shouldBeWarning() {
+	public abstract Boolean shouldBeWarning() {
 		return null;
 	}
 
